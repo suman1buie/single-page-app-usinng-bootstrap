@@ -1,0 +1,113 @@
+*,
+html {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+}
+#title {
+  background-color: #ff4c68;
+  position: relative;
+}
+h1 {
+  font-family: "Zen Dots", cursive;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: aliceblue;
+}
+.container-fluid {
+  padding: 3% 50%;
+}
+
+#dog {
+  width: 50%;
+  transform: rotate(25deg);
+}
+
+#f,
+#s,
+#t {
+  font-size: 3rem;
+  padding-bottom: 10px;
+  color: #ff4c68;
+}
+#s:hover {
+  cursor: pointer;
+  color: crimson;
+}
+
+#t:hover {
+  cursor: pointer;
+  color: crimson;
+}
+
+#f:hover {
+  cursor: pointer;
+  color: crimson;
+}
+
+/* features section */
+#features {
+  padding-top: 10%;
+  margin-left: -20px;
+  position: relative;
+  height: 500px;
+}
+.container-fluid {
+  height: 520px;
+}
+
+#testimonials {
+  padding: 7% 15%;
+  background-color: #ff4c68;
+  color: aliceblue;
+}
+
+#dog-img {
+  width: 15%;
+  border-radius: 100%;
+  margin: 10px;
+}
+
+#press {
+  background-color: #ff4c68;
+  margin-bottom: 30px;
+  padding-bottom: 3%;
+}
+.image-test {
+  width: 15%;
+  padding: 20px 20px 30px 30px;
+}
+
+#pricing {
+  padding: 2% 3%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+#new {
+  width: 80%;
+}
+.card {
+  padding: 10px;
+}
+#cta {
+  background-color: #ff4c68;
+  color: aliceblue;
+  padding: 7% 15%;
+}
+
+h3 {
+  padding-bottom: 20px;
+}
+#footer {
+  position: relative;
+  padding: 7% 15%;
+}
+li {
+  list-style: none;
+}
+a {
+  padding-left: 20px;
+}
